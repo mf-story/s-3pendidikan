@@ -88,10 +88,10 @@ body {
 .grid {
   display: flex;
   flex-wrap: nowrap;
-  gap: 20px;
+  gap: 18px;
   justify-content: center;
   width: 100%;
-  max-width: 1180px;
+  max-width: 1320px;
 }
 
 /* ---- Clickable blue app card ---- */
